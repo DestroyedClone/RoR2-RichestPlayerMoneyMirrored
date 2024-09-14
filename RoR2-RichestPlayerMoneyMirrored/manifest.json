@@ -1,0 +1,9 @@
+{
+    "name": "RichestPlayerMoneyMirrored",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/DestroyedClone/RoR2-RichestPlayerMoneyMirrored",
+    "description": "Mirrors the richest player money to all players on stage start.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2117"
+  ]
+}
